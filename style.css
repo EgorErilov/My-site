@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 body{
     background-image: url(chipps.png);
-    font-family: 'Lobster', cursive;
     text-shadow: 4px 4px 4px #aaa;
+    font-family: 'Indie Flower', cursive;
+    
+    
 }
 #A:hover{
 border: 2px;
@@ -16,7 +19,6 @@ border-radius: 10px;
     border: 2px;
     width:81px;
     height: 50x;
-    ;
     border-radius: 10px;
     
 
@@ -52,15 +54,33 @@ height: 50x;
 background-image:url(chippsblack.png);
 border-radius: 10px;
 }
+
+
 #image{
-    border: 3px solid black;
-    width:500px;
-    height: 700px;
+    margin-top:45px;
+    margin-left:625px;
+    margin-bottom: 45px;
+    text-align: center;
+    border:1px solid #343a40;
     border-radius: 10px;
+    width:1250px;
+    height: 1500px;
+    border-width: 10px;
     background-image: url(chippsblack.png);
-    
-    
+    font-size: 20px;
+        
 }
+
+
+    
+
+
+
+
+
+
+
+    
 
 
 
