@@ -2,7 +2,7 @@
 body{
     background-image: url(chipps.png);
     text-shadow: 4px 4px 4px #aaa;
-    font-family: 'Indie Flower', cursive;
+    font-family: cursive;
     
     
 }
@@ -64,7 +64,22 @@ border-radius: 10px;
     border:1px solid #343a40;
     border-radius: 10px;
     width:1250px;
-    height: 1500px;
+    height: 300px;
+    border-width: 10px;
+    background-image: url(chippsblack.png);
+    font-size: 20px;
+        
+}
+
+.Commenting{
+    margin-top:45px;
+    margin-left:625px;
+    margin-bottom: 45px;
+    text-align: center;
+    border:1px solid #343a40;
+    border-radius: 10px;
+    width:1250px;
+    height: 500px;
     border-width: 10px;
     background-image: url(chippsblack.png);
     font-size: 20px;
@@ -72,9 +87,110 @@ border-radius: 10px;
 }
 
 
+#KartoshkaGuide{
+    margin-top:45px;
+    margin-left:625px;
+    margin-bottom: 45px;
+    text-align: center;
+    border:1px solid #343a40;
+    border-radius: 10px;
+    width:1250px;
+    height: 500px;
+    border-width: 10px;
+    background-image: url(chippsblack.png);
+    font-size: 20px;
+
+}
+
+
+
+#kartoha{
+width:350px;
+height:350px
+}
+
+#KartoshkaGuids{
+    margin-top:85px;
+    margin-left:625px;
+    margin-bottom: 45px;
+    text-align: center;
+    border:1px solid #343a40;
+    border-radius: 10px;
+    width:1250px;
+    height: 500px;
+    border-width: 10px;
+    background-image: url(chippsblack.png);
+    font-size: 20px;
+
+}
+
+#kartohas{
+    width:350px;
+    height:350px;
+    border:2px solid black;
+    border-radius:10px;
+    margin-top: 50px ;
+    }
     
+    #KartoshkaGuideD{
+        margin-top:125px;
+        margin-left:625px;
+        margin-bottom: 45px;
+        text-align: center;
+        border:1px solid #343a40;
+        border-radius: 10px;
+        width:1250px;
+        height: 500px;
+        border-width: 10px;
+        background-image: url(chippsblack.png);
+        font-size: 20px;
+    
+    }
+    
+    #kartohaD{
+        width:350px;
+        height:350px;
+        border:2px solid black;
+        border-radius:10px;
+        margin-top: 50px ;
+        }
 
 
+    .footer{
+        margin-top:700px ;
+    }
+
+    #comatoz{
+        margin-top: 150px;
+        border:2px solid black;
+        border-radius: 10px;
+    }
+   
+    #ripinpie{
+        width:50px ;
+        height:50px ;
+        margin-right: 2000px;
+    }
+    
+   #buttonnext{
+    border: 2px;
+    width:105px;
+    height: 50x;
+    border-radius: 10px;
+    background-color: ghostwhite;
+       
+   }
+   #buttonnext:hover{
+    border: 2px;
+    width:105px;
+    height: 50x;
+    border-radius: 10px;
+    background-color:rgb(236, 198, 28);
+    transition-duration: 0.5s;
+
+   }
+    
+    
 
 
 
